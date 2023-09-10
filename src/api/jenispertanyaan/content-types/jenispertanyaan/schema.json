@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "jenispertanyaans",
+  "info": {
+    "singularName": "jenispertanyaan",
+    "pluralName": "jenispertanyaans",
+    "displayName": "safetycampaign",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "gambar": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "nama": {
+      "type": "string"
+    }
+  }
+}

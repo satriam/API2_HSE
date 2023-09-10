@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pertanyaans",
+  "info": {
+    "singularName": "pertanyaan",
+    "pluralName": "pertanyaans",
+    "displayName": "pertanyaan",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "pertanyaan": {
+      "type": "text"
+    },
+    "jenis": {
+      "type": "enumeration",
+      "enum": [
+        "LP",
+        "DP",
+        "HR"
+      ]
+    }
+  }
+}
