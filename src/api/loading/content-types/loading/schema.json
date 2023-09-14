@@ -1,0 +1,280 @@
+{
+  "kind": "collectionType",
+  "collectionName": "loadings",
+  "info": {
+    "singularName": "loading",
+    "pluralName": "loadings",
+    "displayName": "loading",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "kondisi1": {
+      "type": "string",
+      "required": false
+    },
+    "kodeBahaya1": {
+      "type": "string",
+      "required": false
+    },
+    "keterangan": {
+      "type": "string",
+      "required": false
+    },
+    "kondisi2": {
+      "type": "string",
+      "required": false
+    },
+    "kodeBahaya2": {
+      "type": "string",
+      "required": false
+    },
+    "keterangan2": {
+      "type": "string",
+      "required": false
+    },
+    "kondisi3": {
+      "type": "string",
+      "required": false
+    },
+    "kodeBahaya3": {
+      "type": "string"
+    },
+    "keterangan3": {
+      "type": "string"
+    },
+    "kondisi4": {
+      "type": "string"
+    },
+    "kodeBahaya4": {
+      "type": "string"
+    },
+    "keterangan4": {
+      "type": "string"
+    },
+    "kondisi5": {
+      "type": "string"
+    },
+    "kodeBhaya5": {
+      "type": "string"
+    },
+    "keterangan5": {
+      "type": "string"
+    },
+    "kondisi6": {
+      "type": "string"
+    },
+    "kodeBahaya6": {
+      "type": "string"
+    },
+    "keterangan6": {
+      "type": "string"
+    },
+    "kondisi7": {
+      "type": "string"
+    },
+    "kodeBahaya7": {
+      "type": "string"
+    },
+    "keterangan7": {
+      "type": "string"
+    },
+    "kondisi8": {
+      "type": "string"
+    },
+    "kodeBahaya8": {
+      "type": "string"
+    },
+    "keterangan8": {
+      "type": "string"
+    },
+    "kondisi9": {
+      "type": "string"
+    },
+    "kodeBahaya9": {
+      "type": "string"
+    },
+    "keterangan9": {
+      "type": "string"
+    },
+    "kondisi10": {
+      "type": "string"
+    },
+    "kodeBahaya10": {
+      "type": "string"
+    },
+    "keterangan10": {
+      "type": "string"
+    },
+    "kondisi11": {
+      "type": "string"
+    },
+    "kodeBahaya11": {
+      "type": "string"
+    },
+    "keterangan11": {
+      "type": "string"
+    },
+    "kondisi12": {
+      "type": "string"
+    },
+    "kodeBahaya12": {
+      "type": "string"
+    },
+    "keterangan12": {
+      "type": "string"
+    },
+    "kondisi13": {
+      "type": "string"
+    },
+    "kodeBahaya13": {
+      "type": "string"
+    },
+    "keterangan13": {
+      "type": "string"
+    },
+    "kondisi14": {
+      "type": "string"
+    },
+    "kodeBahaya14": {
+      "type": "string"
+    },
+    "keterangan14": {
+      "type": "string"
+    },
+    "kondisi15": {
+      "type": "string"
+    },
+    "kodeBahaya15": {
+      "type": "string"
+    },
+    "keterangan15": {
+      "type": "string"
+    },
+    "kondisi16": {
+      "type": "string"
+    },
+    "kodeBahaya16": {
+      "type": "string"
+    },
+    "keterangan16": {
+      "type": "string"
+    },
+    "kondisi17": {
+      "type": "string"
+    },
+    "kodeBahaya17": {
+      "type": "string"
+    },
+    "keterangan17": {
+      "type": "string"
+    },
+    "kondisi18": {
+      "type": "string"
+    },
+    "kodeBahaya18": {
+      "type": "string"
+    },
+    "keterangan18": {
+      "type": "string"
+    },
+    "kondisi19": {
+      "type": "string"
+    },
+    "kodeBahaya19": {
+      "type": "string"
+    },
+    "keterangan19": {
+      "type": "string"
+    },
+    "kondisi20": {
+      "type": "string"
+    },
+    "kodeBahaya20": {
+      "type": "string"
+    },
+    "keterangan20": {
+      "type": "string"
+    },
+    "kondisi21": {
+      "type": "string"
+    },
+    "kodeBahaya21": {
+      "type": "string"
+    },
+    "keterangan21": {
+      "type": "string"
+    },
+    "kondisi22": {
+      "type": "string"
+    },
+    "kodebahaya22": {
+      "type": "string"
+    },
+    "keterangan22": {
+      "type": "string"
+    },
+    "kondisi23": {
+      "type": "string"
+    },
+    "kodeBahaya23": {
+      "type": "string"
+    },
+    "keterangan23": {
+      "type": "string"
+    },
+    "kondisi24": {
+      "type": "string"
+    },
+    "kodeBahaya24": {
+      "type": "string"
+    },
+    "keterangan24": {
+      "type": "string"
+    },
+    "kondisi25": {
+      "type": "string"
+    },
+    "kodeBahaya25": {
+      "type": "string"
+    },
+    "keterangan25": {
+      "type": "string"
+    },
+    "kondisi26": {
+      "type": "string"
+    },
+    "kodeBahaya26": {
+      "type": "string"
+    },
+    "keterangan26": {
+      "type": "string"
+    },
+    "tanggal": {
+      "type": "datetime"
+    },
+    "nama_lokasi": {
+      "type": "string",
+      "maxLength": 30,
+      "required": true
+    },
+    "nama_loading": {
+      "type": "string",
+      "required": true,
+      "maxLength": 40
+    },
+    "shift": {
+      "type": "string",
+      "required": true,
+      "maxLength": 9
+    },
+    "grup": {
+      "type": "string",
+      "required": true,
+      "maxLength": 15
+    }
+  }
+}
