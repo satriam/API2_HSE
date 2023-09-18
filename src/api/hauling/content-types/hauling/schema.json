@@ -1,0 +1,372 @@
+{
+  "kind": "collectionType",
+  "collectionName": "haulings",
+  "info": {
+    "singularName": "hauling",
+    "pluralName": "haulings",
+    "displayName": "Hauling",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "kondisi1": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya1": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan1": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi2": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya2": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan2": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi3": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya3": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan3": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi4": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya4": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan4": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi5": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBhaya5": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan5": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi6": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya6": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan6": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi7": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya7": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan7": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi8": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya8": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan8": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi9": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya9": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan9": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi10": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya10": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan10": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi11": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya11": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan11": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi12": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya12": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan12": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi13": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya13": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan13": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi14": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya14": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan14": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi15": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya15": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan15": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi16": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya16": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan16": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi17": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya17": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan17": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi18": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya18": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan18": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi19": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya19": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan19": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi20": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya20": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan20": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi21": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya21": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan21": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi22": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodebahaya22": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan22": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi23": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya23": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan23": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi24": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya24": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan24": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi25": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya25": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan25": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kondisi26": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "kodeBahaya26": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "keterangan26": {
+      "type": "string",
+      "maxLength": 80
+    },
+    "tanggal": {
+      "type": "datetime"
+    },
+    "nama_lokasi": {
+      "type": "string",
+      "maxLength": 30,
+      "required": true
+    },
+    "nama_loading": {
+      "type": "string",
+      "required": true,
+      "maxLength": 40
+    },
+    "shift": {
+      "type": "string",
+      "required": true,
+      "maxLength": 9
+    },
+    "grup": {
+      "type": "string",
+      "required": true,
+      "maxLength": 15
+    },
+    "gambar1": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "gambar2": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": false
+    },
+    "nama_pengawas": {
+      "type": "string",
+      "required": true
+    }
+  }
+  }
+
