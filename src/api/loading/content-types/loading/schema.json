@@ -8,7 +8,8 @@
     "description": ""
   },
   "options": {
-    "draftAndPublish": true
+    "draftAndPublish": true,
+    "populateCreatorFields": true
   },
   "pluginOptions": {},
   "attributes": {
@@ -299,6 +300,9 @@
     "tindakan1": {
       "type": "string",
       "maxLength": 40
+    },
+    "tindakan2": {
+      "type": "string"
     }
   }
 }
